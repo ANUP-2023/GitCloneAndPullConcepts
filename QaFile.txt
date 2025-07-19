@@ -1,0 +1,1 @@
+Created a QaFile.txt in Remote Repo form the GitHub UI inside the qa branch and Added some content in QaFile.txt
