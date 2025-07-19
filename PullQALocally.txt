@@ -1,0 +1,1 @@
+Created a  PullDevLocally.txt from remote repo in qa branch.
