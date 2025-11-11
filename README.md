@@ -10,3 +10,16 @@ sudo apt update
 sudo apt install git -y
 git --version
 
+# 🚀 Git Commands Practice on EC2
+
+This repository documents all the steps I followed to set up **Git** on an **AWS EC2 instance**, configure **SSH access** to GitHub, clone a public repository, and push code to my own GitHub repo.
+
+---
+
+## 🧩 Step 1: Install Git
+
+```bash
+sudo apt update
+sudo apt install git -y
+git --version
+
